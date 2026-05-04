@@ -1,0 +1,29 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": -16.0,
+            "y": -43.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 2": {
+            "x": 0.0,
+            "y": -43.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 3": {
+            "x": 17.0,
+            "y": -44.0,
+            "angles": [
+                -90
+            ]
+        }
+    },
+    "name": "Panel mount potentiometer - flipped",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null
+}

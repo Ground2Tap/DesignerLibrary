@@ -1,0 +1,46 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": -7.0,
+            "y": -118.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 2": {
+            "x": -5.0,
+            "y": 118.0,
+            "angles": [
+                90
+            ]
+        },
+        "Connection Point 3": {
+            "x": 7.0,
+            "y": -61.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 4": {
+            "x": 6.0,
+            "y": 53.0,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "Double Connector block",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "din_rail_attachment": {
+        "x": 0,
+        "y": 0,
+        "angle": 90
+    },
+    "name_location": {
+        "x": -0.94,
+        "y": 117.0,
+        "rotation": 90.0
+    }
+}

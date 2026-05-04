@@ -1,0 +1,21 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": 41.5,
+            "y": -26.5,
+            "angles": [
+                0
+            ]
+        },
+        "outlet": {
+            "x": -37.5,
+            "y": -28.5,
+            "angles": [
+                180
+            ]
+        }
+    },
+    "name": "big blue filter",
+    "type": "image",
+    "category": "Particle Filter"
+}

@@ -1,0 +1,25 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": 34.0,
+            "y": 21.5,
+            "angles": [
+                0
+            ],
+            "name": "Inlet"
+        },
+        "outlet": {
+            "x": -30.0,
+            "y": 21.5,
+            "angles": [
+                -180
+            ],
+            "name": "Outlet"
+        }
+    },
+    "name": "pump",
+    "type": "image",
+    "category": "Pump",
+    "flippable": true,
+    "rotatable": true
+}

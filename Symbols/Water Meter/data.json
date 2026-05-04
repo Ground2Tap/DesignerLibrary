@@ -1,0 +1,23 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": 0,
+            "y": 0,
+            "angles": [
+                0
+            ]
+        },
+        "Connection Point 2": {
+            "x": 0,
+            "y": 0,
+            "angles": [
+                -180
+            ]
+        }
+    },
+    "name": "water meter",
+    "type": "character",
+    "character": "M",
+    "category": "Water Meter",
+    "flippable": true
+}

@@ -1,0 +1,21 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": 13.0,
+            "y": 6.5,
+            "angles": [
+                0
+            ]
+        },
+        "outlet": {
+            "x": -16.0,
+            "y": 5.5,
+            "angles": [
+                -180
+            ]
+        }
+    },
+    "name": "double union ball valve",
+    "type": "image",
+    "category": "Ball Valve"
+}

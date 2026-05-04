@@ -1,0 +1,25 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": -35.9921875,
+            "y": 0.5,
+            "angles": [
+                180
+            ]
+        },
+        "outlet": {
+            "x": 36.0078125,
+            "y": 0.5,
+            "angles": [
+                0
+            ]
+        }
+    },
+    "name": "ph tank process",
+    "type": "process",
+    "process_text": "pH Tank",
+    "width": 70.015625,
+    "height": 27.0,
+    "radius": 5,
+    "category": "pH Tank process"
+}

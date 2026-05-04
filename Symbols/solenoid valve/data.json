@@ -1,0 +1,23 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": 15.5,
+            "y": 10.0,
+            "angles": [
+                0
+            ]
+        },
+        "outlet": {
+            "x": -15.5,
+            "y": 8.0,
+            "angles": [
+                -180
+            ]
+        }
+    },
+    "name": "solenoid valve",
+    "type": "image",
+    "category": "Solenoid Valve",
+    "flippable": true,
+    "rotatable": true
+}

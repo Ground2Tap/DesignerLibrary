@@ -1,0 +1,30 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": 71.5,
+            "y": -15.5,
+            "angles": [
+                -90
+            ]
+        },
+        "outlet": {
+            "x": -96.5,
+            "y": -0.5,
+            "angles": [
+                -180
+            ]
+        },
+        "waste": {
+            "x": -74.5,
+            "y": 13.5,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "ro vessel",
+    "type": "image",
+    "category": "RO Vessel",
+    "flippable": true,
+    "rotatable": true
+}

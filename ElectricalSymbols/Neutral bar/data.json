@@ -1,0 +1,62 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": 0.0,
+            "y": 85.0,
+            "angles": [
+                -180
+            ]
+        },
+        "Connection Point 2": {
+            "x": 0.0,
+            "y": 58.0,
+            "angles": [
+                180
+            ]
+        },
+        "Connection Point 3": {
+            "x": -1.0,
+            "y": 28.0,
+            "angles": [
+                180
+            ]
+        },
+        "Connection Point 4": {
+            "x": 1.0,
+            "y": -1.0,
+            "angles": [
+                180
+            ]
+        },
+        "Connection Point 5": {
+            "x": 0.0,
+            "y": -29.0,
+            "angles": [
+                180
+            ]
+        },
+        "Connection Point 6": {
+            "x": 0.0,
+            "y": -56.0,
+            "angles": [
+                180
+            ]
+        },
+        "Connection Point 7": {
+            "x": -1.0,
+            "y": -84.0,
+            "angles": [
+                -180
+            ]
+        }
+    },
+    "name": "Neutral bar",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "din_rail_attachment": {
+        "x": 0,
+        "y": 0,
+        "angle": 90
+    }
+}

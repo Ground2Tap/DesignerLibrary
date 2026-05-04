@@ -1,0 +1,21 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": -9.5,
+            "y": 31.5,
+            "angles": [
+                0
+            ]
+        },
+        "outlet": {
+            "x": -9.5,
+            "y": 31.5,
+            "angles": [
+                -180
+            ]
+        }
+    },
+    "name": "dosing pump",
+    "type": "image",
+    "category": "Dosing Pump"
+}

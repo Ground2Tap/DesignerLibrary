@@ -1,0 +1,25 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": -53.0,
+            "y": 0.0,
+            "angles": [
+                -180
+            ]
+        },
+        "outlet": {
+            "x": 54.0,
+            "y": 1.0,
+            "angles": [
+                0
+            ]
+        }
+    },
+    "name": "particle filter process",
+    "type": "process",
+    "process_text": "Particle Filter",
+    "width": 107.3125,
+    "height": 27.0,
+    "radius": 5,
+    "category": "Particle filter process"
+}

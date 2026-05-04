@@ -1,0 +1,55 @@
+{
+    "connection_points": {
+        "Live": {
+            "x": -16.0,
+            "y": 196.0,
+            "angles": [
+                90
+            ]
+        },
+        "Neutral": {
+            "x": 3.0,
+            "y": 196.0,
+            "angles": [
+                90
+            ]
+        },
+        "DC+ 2": {
+            "x": -11.0,
+            "y": -206.0,
+            "angles": [
+                -90
+            ]
+        },
+        "DC- 1": {
+            "x": 9.0,
+            "y": -205.0,
+            "angles": [
+                -90
+            ]
+        },
+        "DC- 2": {
+            "x": 26.0,
+            "y": -205.0,
+            "angles": [
+                -90
+            ]
+        },
+        "DC+ 1": {
+            "x": -27.0,
+            "y": -206.0,
+            "angles": [
+                -90
+            ]
+        }
+    },
+    "name": "Power Supply",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "din_rail_attachment": {
+        "x": 0,
+        "y": 0,
+        "angle": 90
+    }
+}

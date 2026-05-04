@@ -1,0 +1,27 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": 0.0,
+            "y": -113.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 2": {
+            "x": 0.0,
+            "y": 115.0,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "Breaker",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "din_rail_attachment": {
+        "x": 0,
+        "y": 0,
+        "angle": 90
+    }
+}

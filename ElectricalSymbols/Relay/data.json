@@ -1,0 +1,48 @@
+{
+    "connection_points": {
+        "COM": {
+            "x": -13.0,
+            "y": -133.0,
+            "angles": [
+                -90
+            ]
+        },
+        "NO": {
+            "x": 14.0,
+            "y": -92.0,
+            "angles": [
+                -90
+            ]
+        },
+        "NC": {
+            "x": 13.0,
+            "y": -50.0,
+            "angles": [
+                -60
+            ]
+        },
+        "A1": {
+            "x": -13.0,
+            "y": 123.0,
+            "angles": [
+                90
+            ]
+        },
+        "A2": {
+            "x": 14.0,
+            "y": 122.0,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "Relay",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "din_rail_attachment": {
+        "x": 0,
+        "y": 0,
+        "angle": 90
+    }
+}

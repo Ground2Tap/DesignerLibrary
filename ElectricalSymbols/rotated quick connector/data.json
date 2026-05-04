@@ -1,0 +1,20 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": 0.0,
+            "y": 16.0,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "rotated quick connector",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "name_location": {
+        "x": -0.95,
+        "y": -42.5,
+        "rotation": -90.0
+    }
+}

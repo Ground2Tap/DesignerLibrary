@@ -1,0 +1,32 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": -1.0,
+            "y": -72.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 2": {
+            "x": -1.0,
+            "y": 72.0,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "Connector block",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "din_rail_attachment": {
+        "x": 0,
+        "y": 0,
+        "angle": 90
+    },
+    "name_location": {
+        "x": 0.88,
+        "y": 77.5,
+        "rotation": 90.0
+    }
+}

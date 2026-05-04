@@ -1,0 +1,23 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": -10.5,
+            "y": -0.5,
+            "angles": [
+                -180
+            ]
+        },
+        "outlet": {
+            "x": 16.5,
+            "y": 0.5,
+            "angles": [
+                0
+            ]
+        }
+    },
+    "name": "non return valve",
+    "type": "image",
+    "category": "Non Return Valve",
+    "flippable": true,
+    "rotatable": true
+}

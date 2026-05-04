@@ -1,0 +1,22 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": 82.5,
+            "y": -40.0,
+            "angles": [
+                0
+            ]
+        },
+        "outlet": {
+            "x": -87.5,
+            "y": 64.0,
+            "angles": [
+                180
+            ]
+        }
+    },
+    "name": "tank",
+    "type": "image",
+    "category": "Tank",
+    "flippable": true
+}

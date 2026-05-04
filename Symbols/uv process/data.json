@@ -1,0 +1,25 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": -16.0,
+            "y": 0.0,
+            "angles": [
+                180
+            ]
+        },
+        "outlet": {
+            "x": 15.0,
+            "y": -1.0,
+            "angles": [
+                0
+            ]
+        }
+    },
+    "name": "uv process",
+    "type": "process",
+    "process_text": "UV",
+    "width": 31.59375,
+    "height": 27.0,
+    "radius": 5,
+    "category": "UV process"
+}

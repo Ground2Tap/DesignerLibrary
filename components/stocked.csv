@@ -1,0 +1,351 @@
+G2T Item Ref;Category;Item;Stock count;Stock situation;Max. Cost per unit;Stock on Hand;Low cost? ;Priority;Currently stocking?;Type of supplier;Supplier Ref Code
+100001;Filter standard;"Eco big blue 4.5"" x 20"" - 1"" ports";-;Sufficient;-;-;Low Cost;Low;;WCSA;EBBB201D
+100002;Filter standard;"Big blue 4.5"" x 20"" - 1.5"" ports";-;Sufficient;-;-;Low Cost;Low;;WCSA;
+100003;Filter standard;"Melt Blown filter element, 4.5"" x 20"", 5um";-;Sufficient;-;-;Low Cost;Low;;WCSA;APPBB20-5
+100004;Filter standard;"Melt Blown filter element, 4.5"" x 20"", 20um";-;Sufficient;-;-;Low Cost;Low;;WET;
+100005;Filter standard;"Melt Blown filter element, 4.5"" x 20"", 1um";-;Sufficient;-;-;Low Cost;Low;;WET;
+100006;Filter standard;"Melt Blown filter element, Slim x 30"", 5um";10;Sufficient;-;-;Low Cost;Low;;WET;
+100007;Filter standard;"Refillable cartridge 4.5"" x 20""";(4);CRITICAL;-;-;Low Cost;Low;;WCSA;
+100008;Filter standard;5 micron bag filter;37;Sufficient;-;-;Low Cost;Low;;WCSA;
+100009;Filter standard;1 micron bag filter;25;Sufficient;-;-;Low Cost;Low;;WCSA;
+100010;Filter standard;"130micron screen filter [1.25""M]";34;Sufficient;-;-;Low Cost;Low;;APVF;
+100011;Filter standard;"130micron screen filter [1""M]";21;Sufficient;-;-;Low Cost;Low;;APVF;
+100012;Valve Box;JUMBO - Rectangular Valve Box;16;Sufficient;-;-;Expensive;Low;;Waterlink;
+100013;Valve Box;"Valve Box - Round 6""";18;Sufficient;-;-;Low Cost;Low;;Waterlink;
+100014;Filter standard;Top distributer;-;Sufficient;-;-;Low Cost;Low;;WCSA;
+100015;Filter standard;Bottom distributer;7;Sufficient;-;-;Low Cost;Low;;WET;
+100016;Filter standard;Riser tube;9;Sufficient;-;-;Low Cost;High;;WET;
+100017;Filter standard;BB 1x Bracket;3;Sufficient;-;-;Low Cost;High;;Stephen;
+100018;Filter standard;BB 2x Bracket;3;Sufficient;-;-;Low Cost;High;;Stephen;
+100019;Filter standard;BB 3x Bracket;-;Sufficient;-;-;Low Cost;High;;Stephen;
+100020;Filter Media;Media - Activated Carbon 12x30 mesh, 25kg;8;Sufficient;-;-;Expensive;Low;;WCSA;
+100021;Filter Media;Media - Katalox Light;2;Sufficient;-;-;Expensive;High;No;WCSA;
+100022;Filter Media;Media - DMI65;10;Sufficient;-;-;Expensive;High;;WET;
+100023;Filter Media;Media - CaCO3;7;Sufficient;-;-;Low Cost;High;;WET;
+100024;Filter Media;Media - Glass coarse;10;Sufficient;-;-;Low Cost;Low;;Jacques;
+100025;Filter Media;Media - Glass fine;4;Sufficient;-;-;Low Cost;Low;;Jacques;
+100026;Chemical;Sodium Hydroxide lye - ZONE (no. of cans);4;Sufficient;-;-;Low Cost;High;;Chemical;
+100027;Chemical;Sodium Hypochlorite - FlocoChem (no. of cans);(40);CRITICAL;-;-;Low Cost;High;;Chemical;NUNaOCL
+100028;Chemical;Hydrochloric Acid - FlocoChem;8;Sufficient;-;-;Low Cost;High;;Chemical;
+100029;Chemical;Amanzifloc;32;Sufficient;-;-;Expensive;High;;Chemical;
+100030;Chemical;SMBS liquid 25L - Chemcape;(6);CRITICAL;-;-;Expensive;High;;Chemical;
+100031;Chemical;Genesys RC antiscalent;269;Sufficient;-;-;Expensive;High;;WCSA;
+100032;Chemical;Genesys LF antiscalent;104;Sufficient;-;-;Expensive;High;;WCSA;
+100033;Chemical;Dryden ACO stabiliser;18;Sufficient;-;-;Expensive;High;;WCSA;
+100034;Filter standard;7:3.5 g/hr ozone generator;6;Sufficient;-;-;Expensive;High;No;Jacques;
+100035;Filter standard;Dosing tank 100L - Rototank 100 Heavy Natural;-;Sufficient;-;-;Expensive;Low;;Jacques;
+100036;Filter standard;Dosing tank 250L - Nel 250VW White;7;Sufficient;-;-;Expensive;Low;;Jacques;
+100037;Filter standard;WCSA ULP-4040 membrane;16;Sufficient;-;-;Expensive;High;;WCSA;
+100038;Filter standard;RO FRP housing 4040 300psi end - single element;(3);CRITICAL;-;-;Expensive;High;;WCSA;
+100039;Filter standard;RO electronic controller ROC-2015;1;Sufficient;-;-;Expensive;High;;WCSA;
+100040;Filter standard;Ultrafilter membrane (Outside-in);9;Sufficient;-;-;Expensive;High;;WCSA;
+100041;Filter standard;1354 / 1252 pressure tank - 100L;-;Sufficient;-;-;Expensive;Low;;WCSA;
+100042;Filter standard;1465 pressure tank - 148L;(5);CRITICAL;-;-;Expensive;Low;;WCSA;
+100043;Filter standard;"2.5"" Standard tank head";(2);CRITICAL;-;-;Low cost;Low;;WET;
+100044;Filter standard;Automatic Backwash Filter Valve for 2.5” mount;3;Sufficient;-;-;Expensive;Low;;WET;
+100045;Filter standard;"Auto softener head 2.5""";-;Sufficient;-;-;Expensive;Low;;WCSA;
+100046;UV;56L/min UV reactor;5;Sufficient;-;-;Expensive;Low;;WET;
+100047;UV;Quartz Sleeve (Pro 12);2;Sufficient;-;-;Low cost;High;;WET;
+100048;UV;Quartz Sleeve (55W);7;Sufficient;-;-;Low cost;High;;WET;
+100049;UV;39W Light bulb;(4);CRITICAL;-;-;Low cost;High;;WET;
+100050;UV;UV ballast (55W);2;Sufficient;-;-;Low cost;High;;WET;
+100051;Filter standard;Rotameter (Water), 1-7 l/min;3;Sufficient;-;-;Low cost;High;;WET;
+100052;Filter standard;Rotameter (Water), 2-18 l/min;9;Sufficient;-;-;Low cost;High;;WET;
+100053;Filter standard;Rotameter (Water), 5-35 l/min;29;Sufficient;-;-;Low cost;High;;WET;
+100054;Filter standard;Rotameter (Water), 10-70 l/min;46;Sufficient;-;-;Low cost;High;;WET;
+100055;Pumps;JA100;3;Sufficient;-;-;Expensive;Low;;Summit;
+100056;Pumps;JPG9007 Garden Pump;10;Sufficient;-;-;Expensive;Low;;Summit;
+100057;Pumps;KM100;8;Sufficient;-;-;Expensive;Low;;Summit;
+100058;Pumps;KM50;8;Sufficient;-;-;Expensive;Low;;Summit;
+100059;Pumps;P3 100/5 horizontal (or KB100);4;Sufficient;-;-;Expensive;High;;Summit;
+100060;Pumps;Plus 3 120/6 T - three phase;2;Sufficient;-;-;Expensive;High;;Summit;
+100061;Pumps;HSI 4-60 (or KB160) single phase;1;Sufficient;-;-;Expensive;High;;ABC pumps;
+100062;Pumps;VMS4-80 - three phase;2;Sufficient;-;-;Expensive;High;;ABC pumps;
+100063;Pumps;Pump controller (PC-10-G-1);(1);CRITICAL;-;-;Low cost;Low;;WCSA;
+100064;Pumps;Pump controller, settable digital display;1;Sufficient;-;-;Low cost;Low;;WCSA;
+100065;Pumps;Invertec VSD 1-3phase 1.5kW IP20;(1);CRITICAL;-;-;Expensive;Low;No;Stephen;
+100066;Pumps;"1"" 5-way stainless fitting";-;Sufficient;-;-;Low cost;Low;;ABC pumps;
+100067;Pumps;"1.25"" 5-way stainless fitting";5;Sufficient;-;-;Low cost;Low;;ABC pumps;
+100068;Pumps;Pressure sensor 0-10bar;1;Sufficient;-;-;Low cost;High;;ABC pumps;
+100069;Pumps;Pressure sensor 0-20bar;-;Sufficient;-;-;Low cost;High;No;ABC pumps;
+100070;Dosing pumps;Flow sensor - Aliexpress Gussy Store;2;Sufficient;-;-;Low cost;High;No;Stephen;
+100071;Dosing pumps;Level sensor 1m - Aliexpress;-;Sufficient;-;-;Expensive;High;No;Stephen;
+100072;Dosing pumps;Level sensor 1m - Aliexpress - Chlorine;(1);CRITICAL;-;-;Expensive;High;No;Stephen;
+100073;Dosing pumps;Level sensor 2m - Aliexpress;8;Sufficient;-;-;Expensive;High;No;Stephen;
+100074;Dosing pumps;Level sensor 5m - Aliexpress;1;Sufficient;-;-;Expensive;High;No;Stephen;
+100075;Pumps;60L Horizontal Pressure Wave;20;Sufficient;-;-;Expensive;Low;;ABC pumps;
+100076;Pumps;24L Horizontal Pressure Wave;7;Sufficient;-;-;Expensive;Low;;ABC pumps;
+100077;Pumps;8L Pressure Vessel;4;Sufficient;-;-;Low cost;Low;;ABC pumps;
+100078;Pumps;4L Pressure Wave;1;Sufficient;-;-;Low cost;Low;;ABC pumps;
+100079;Pumps;"1/2"" Solonoid Valves";(2);CRITICAL;-;-;Expensive;Low;;WCSA;
+100080;Pumps;"3/4"" Solonoid Valves";-;Sufficient;-;-;Expensive;Low;;WCSA;
+100081;Pumps;"1"" Solonoid Valves";3;Sufficient;-;-;Expensive;Low;;WCSA;
+100082;Pumps;RPZ valve - Bergrivier;2;Sufficient;-;-;Expensive;High;No;Stephen;
+100083;Pumps;Pressure Gauge (7 bar);4;Sufficient;-;-;Low cost;Low;;WET;
+100084;Pumps;Pressure Gauge (16 bar);3;Sufficient;-;-;Low cost;Low;;WET;
+100085;Pumps;High Pressure Switch;9;Sufficient;-;-;Low cost;High;No;WCSA;
+100086;Pumps;Low Pressure Switch;5;Sufficient;-;-;Low cost;High;No;ElectroMechanica;
+100087;Pumps;Pump buddy 25mm - APEX;2;Sufficient;-;-;Expensive;High;No;Jacques;
+100088;Pumps;Float switch;5;Sufficient;-;-;Low cost;Low;;WCSA;
+100089;Electrical;3kVA Mecer inverter - MUSTEK;5;Sufficient;-;-;Expensive;High;No;Stephen;
+100090;Electrical;12V Lithuium battery - HUBBLE;4;Sufficient;-;-;Expensive;High;No;Stephen;
+100091;Electrical;24V battery balancer - HUBBLE;10;Sufficient;-;-;Expensive;High;No;Stephen;
+100092;Electrical;Battery Box - RF029A - PIONEER PLASTICS;1;Sufficient;-;-;Expensive;High;No;Stephen;
+100093;Dosing pumps;Etatron PKX FT/A 0105;11;Sufficient;-;-;Expensive;Low;;Dosing Systems (DSA);
+100094;Dosing pumps;Etatron B3V-0403;1;Sufficient;-;-;Expensive;High;;Dosing Systems (DSA);
+100095;Dosing pumps;PVC 4x6 suction tubing;1;Sufficient;-;-;Low cost;High;No;Scientific Instraments;
+100096;Dosing pumps;FEP tubing - Actom;1;Sufficient;-;-;Expensive;High;No;Stephen;
+100097;Dosing pumps;pH controller - Aliexpress;2;Sufficient;-;-;Expensive;High;No;Stephen;
+100098;Dosing pumps;pH residential Electrode- SE-pH5000;10;Sufficient;-;-;Expensive;High;;Scientific Instraments;
+100099;Dosing pumps;ORP Electrode;17;Sufficient;-;-;Expensive;High;;Scientific Instraments;
+100100;Dosing pumps;"PVC in-line probel holder - 1/2"" - SEKO";178;Sufficient;-;-;Low cost;High;;Scientific Instraments;
+100101;Dosing pumps;Level Switch;58;Sufficient;-;-;Low cost;High;No;Dosing Systems (DSA);
+100102;Plumbing;Brass Cold Water Multi-jet 40mm - 10L pulse + tail pieces;(20);CRITICAL;-;-;Low cost;High;;Jacques;
+100103;Plumbing;Brass Cold Water Multi-jet 20mm - 10L pulse + tail pieces;94;Sufficient;-;-;Low cost;High;;Jacques;
+100104;Plumbing;Brass Cold Water Multi-jet 32mm - 10L pulse + tail pieces;13;Sufficient;-;-;Low cost;High;;Jacques;
+100105;Plumbing;Plastic Water Meter - 20mm - no tailpieces + reed switch - 10L/pulse;37;Sufficient;-;-;Low cost;High;;Jacques;
+100106;Plumbing;Motorised ball valve - 3-wire 24V - 32mm;5;Sufficient;-;-;Expensive;High;No;WET;
+100107;Plumbing;Motorised ball valve - 3-wire 24V - 40mm;9;Sufficient;-;-;Expensive;High;No;WET;
+100108;Plumbing;One-way valve [1F-1F] flap;8;Sufficient;-;-;Low cost;High;;Jacques;
+100109;Plumbing;One-way valve [1.25F-1.25F] flap;10;Sufficient;-;-;Low cost;High;;Jacques;
+100110;Plumbing;One-way valve [1.5F-1.5F] flap;6;Sufficient;-;-;Low cost;High;;Jacques;
+100111;Plumbing;One-way valve [1F-1F] spring;-;Sufficient;-;-;Low cost;High;;Jacques;
+100112;Plumbing;One-way valve [1.25F-1.25F] spring;4;Sufficient;-;-;Low cost;High;;Jacques;
+100113;Plumbing;"Adjustable PRV [1""]";6;Sufficient;-;-;Expensive;High;;Jacques;
+100114;Plumbing;"Adjustable PRV [1.25""]";4;Sufficient;-;-;Expensive;High;No;Jacques;
+100115;Plumbing;"Ball valve brass / lever [1""]";5;Sufficient;-;-;Low cost;Low;No;Jacques;
+100116;Plumbing;"Gate valve brass [1/2""]";;Sufficient;-;-;Low cost;Low;;Waterlink;
+100117;Plumbing;"Gate valve brass [3/4""]";3;Sufficient;-;-;Low cost;High;;Waterlink;
+100118;Plumbing;"Gate valve brass [1""]";2;Sufficient;-;-;Low cost;High;;Waterlink;
+100119;Plumbing;Brass Faucet;(1);CRITICAL;-;-;Low cost;High;;Jacques;
+100120;Brackets;Clip bracket 20mm;8;Sufficient;-;-;Low cost;High;;APVF;
+100121;Brackets;Clip bracket 25mm;71;Sufficient;-;-;Low cost;High;;APVF;
+100122;Brackets;Clip bracket 32mm;16;Sufficient;-;-;Low cost;High;;APVF;
+100123;Brackets;Clip bracket 40mm;7;Sufficient;-;-;Low cost;High;;APVF;
+100124;Brackets;Clamp bracket 20mm;-;Sufficient;-;-;Low cost;High;;Jacques;
+100125;Brackets;Clamp bracket 25mm;116;Sufficient;-;-;Low cost;High;;Jacques;
+100126;Brackets;Clamp bracket 32mm;116;Sufficient;-;-;Low cost;High;;Jacques;
+100127;Brackets;Clamp bracket 40mm;50;Sufficient;-;-;Low cost;High;;Jacques;
+100128;PVC;PVC Socket plain [20-20];81;Sufficient;-;-;Low cost;High;;APVF;
+100129;PVC;PVC Male adapter [20-.5M];(64);CRITICAL;-;-;Low cost;High;;APVF;
+100130;PVC;PVC Male adapter [20-.75M];6;Sufficient;-;-;Low cost;High;;APVF;
+100131;PVC;PVC 45 elbow plain [20-20];19;Sufficient;-;-;Low cost;High;;APVF;
+100132;PVC;PVC 90 elbow plain [20-20];26;Sufficient;-;-;Low cost;High;;APVF;
+100133;PVC;PVC 90 Tee Plain [20-20-20];27;Sufficient;-;-;Low cost;High;;APVF;
+100134;PVC;PVC Union socket plain [20-20];60;Sufficient;-;-;Low cost;High;;APVF;
+100135;PVC;PVC Single union check valve plain [20-20];15;Sufficient;-;-;Low cost;High;;APVF;
+100136;PVC;PVC Ball valve plain [20-20];50;Sufficient;-;-;Low cost;High;;APVF;
+100137;PVC;PVC Socket plain [25-25];120;Sufficient;-;-;Low cost;High;;APVF;
+100138;PVC;PVC Male adapter [25-.5M];50;Sufficient;-;-;Low cost;High;;APVF;
+100139;PVC;PVC Male adapter [25-.75M];58;Sufficient;-;-;Low cost;High;;APVF;
+100140;PVC;PVC 45 elbow plain [25-25];10;Sufficient;-;-;Low cost;High;;APVF;
+100141;PVC;PVC 90 elbow plain [25-25];70;Sufficient;-;-;Low cost;High;;APVF;
+100142;PVC;PVC 90 Tee Plain [25-25-25];80;Sufficient;-;-;Low cost;High;;APVF;
+100143;PVC;PVC Union socket plain [25-25];10;Sufficient;-;-;Low cost;High;;APVF;
+100144;PVC;PVC Single union check valve plain [25-25];20;Sufficient;-;-;Low cost;High;;APVF;
+100145;PVC;PVC Ball valve plain [25-25];53;Sufficient;-;-;Low cost;High;;APVF;
+100146;PVC;PVC Socket plain [32-32];150;Sufficient;-;-;Low cost;High;;APVF;
+100147;PVC;PVC Socket threaded-plain [32-1F];50;Sufficient;-;-;Low cost;High;;APVF;
+100148;PVC;PVC Male adapter [32-.75M];33;Sufficient;-;-;Low cost;High;;APVF;
+100149;PVC;PVC Male adapter [32-1M];10;Sufficient;-;-;Low cost;High;;APVF;
+100150;PVC;PVC 45 elbow plain [32-32];25;Sufficient;-;-;Low cost;High;;APVF;PVCF-EY1-0032B
+100151;PVC;PVC 90 elbow plain [32-32];35;Sufficient;-;-;Low cost;High;;APVF;
+100152;PVC;PVC 90 Elbow Threaded - Plain [1F-32];(14);CRITICAL;-;-;Low cost;High;;APVF;
+100153;PVC;PVC 90 Tee Plain [32-32-32];22;Sufficient;-;-;Low cost;High;;APVF;
+100154;PVC;PVC 90 Tee Threaded-Plain [32-1F-32];(26);CRITICAL;-;-;Low cost;High;;APVF;PVCF-TI3-032-E
+100155;PVC;PVC Union socket threaded [1F-1F];30;Sufficient;-;-;Low cost;High;;APVF;
+100156;PVC;PVC Single union ball valve plain [32];195;Sufficient;-;-;Low cost;High;;APVF;
+100157;PVC;PVC Ball valve plain [32-32];(40);CRITICAL;-;-;Low cost;High;;APVF;
+100158;PVC;PVC Ball valve threaded [1F-1F];118;Sufficient;-;-;Low cost;High;;APVF;
+100159;PVC;PVC Union socket threaded-plain [32-1F];24;Sufficient;-;-;Low cost;High;;APVF;
+100160;PVC;PVC Union socket plain [32-32];11;Sufficient;-;-;Low cost;High;;APVF;
+100161;PVC;PVC Double union check valve plain [32-32];(6);CRITICAL;-;-;Low cost;High;;APVF;
+100162;PVC;PVC bushing [1M-0.25F];25;Sufficient;-;-;Low cost;High;;APVF;
+100163;PVC;PVC bushing [1M-0.375F];13;Sufficient;-;-;Low cost;High;;APVF;
+100164;PVC;PVC Reducing bush [32-0.75F];47;Sufficient;-;-;Low cost;High;;APVF;
+100165;PVC;PVC Reducing bush plain [25-20];167;Sufficient;-;-;Low cost;High;;APVF;PVCFRB1-025-020
+100166;PVC;PVC Reducing bush plain [32-25];4;Sufficient;-;-;Low cost;High;;APVF;PVCFRB1-032-25B
+100167;PVC;PVC Reducing bush plain [40-32];(8);CRITICAL;-;-;Low cost;High;;APVF;
+100168;PVC;PVC Socket plain [40-40];5;Sufficient;-;-;Low cost;High;;APVF;
+100169;PVC;PVC Socket threaded-plain [40-1.25F];13;Sufficient;-;-;Low cost;High;;APVF;
+100170;PVC;PVC Male adapter [40-1.25M];39;Sufficient;-;-;Low cost;High;;APVF;
+100171;PVC;PVC Male adapter [40-1.5M];30;Sufficient;-;-;Low cost;High;;APVF;
+100172;PVC;PVC 45 elbow plain [40-40];44;Sufficient;-;-;Low cost;High;;APVF;
+100173;PVC;PVC 90 elbow plain [40-40];178;Sufficient;-;-;Low cost;High;;APVF;
+100174;PVC;PVC 90 Elbow Threaded - Plain [1.25F-40];42;Sufficient;-;-;Low cost;High;;APVF;
+100175;PVC;PVC 90 Tee Plain [40-40-40];77;Sufficient;-;-;Low cost;High;;APVF;
+100176;PVC;PVC 90 Tee Threaded-Plain [40-1.25F-40];35;Sufficient;-;-;Low cost;High;;APVF;
+100177;PVC;PVC Union socket plain [40-40];116;Sufficient;-;-;Low cost;High;;APVF;
+100178;PVC;PVC Double union check valve plain [40-40];400;Sufficient;-;-;Low cost;High;;APVF;
+100179;PVC;PVC Ball valve plain [40-40];60;Sufficient;-;-;Low cost;High;;APVF;
+100180;PVC;PVC pipe plain [20] - class 16;164;Sufficient;-;-;Low cost;High;;APVF;PVCP-DF-20/16P
+100181;PVC;PVC pipe plain [25] - class 16;56;Sufficient;-;-;Low cost;High;;APVF;
+100182;PVC;PVC pipe plain [32] - class 16;125;Sufficient;-;-;Low cost;High;;APVF;PVCP-DF-32/16P
+100183;PVC;PVC pipe plain [32] - class 9;9;Sufficient;-;-;Low cost;High;;APVF;PVCP-DF-32/9P
+100184;PVC;PVC pipe plain [40] - class 9;27;Sufficient;-;-;Low cost;High;;APVF;PVCP-DF-40/9P
+100185;Comp fittings;COMP 90 elbow [25-25];46;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP56DF5625-25/25]C
+100186;Comp fittings;COMP 90 male elbow [25-1M];49;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP21DF2125-1M/1M]C
+100187;Comp fittings;COMP Male adapter [25-1M];60;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP18DF1825-1M/1M]C
+100188;Comp fittings;COMP coupling [25-25];(87);CRITICAL;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-25-25/25]C
+100189;Comp fittings;COMP 90 tee [25-25-25];269;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-25-25-25/25]C
+100190;Comp fittings;COMP 90 elbow [32-32];(120);CRITICAL;-;-;Low cost;High;No;APVF;Comp fittingsP26DF2632-32/32]C
+100191;Comp fittings;COMP reducing tee [32-25-32];(54);CRITICAL;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-32-25-32/32]C
+100192;Comp fittings;COMP Male adapter [32-1M];(35);CRITICAL;-;-;Low cost;High;No;APVF;Comp fittingsP20DF2032-1M/1M]C
+100193;Comp fittings;COMP coupling [32-32];7;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-32-32/32]C
+100194;Comp fittings;COMP 90 male elbow [32-1M];6;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP19DF1932-1M/1M]C
+100195;Comp fittings;COMP 90 tee [32-32-32];(59);CRITICAL;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-32-32-32/32]C
+100196;Comp fittings;COMP Male adapter [40-1M];(4);CRITICAL;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-40-1M/1M]C
+100197;Comp fittings;COMP Male adapter [40-1.5M];(51);CRITICAL;-;-;Low cost;High;No;APVF;Comp fittingsP2DF240-1.5M/5M]C
+100198;Comp fittings;COMP 90 male elbow [40-1M];5;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP3DF340-1M/1M]C
+100199;Comp fittings;COMP 90 male elbow [40-1.5M];(50);CRITICAL;-;-;Low cost;High;No;APVF;Comp fittingsP6DF640-1.5M/5M]C
+100200;Comp fittings;COMP reducing tee [40-32-40];7;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP6DF640-32-40/40]C
+100201;Comp fittings;COMP 90 elbow [40-40];5;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP13DF1340-40/40]C
+100202;Comp fittings;HDPE pipe 25mm Class 10;4;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-25/10C
+100203;Comp fittings;HDPE pipe 32mm Class 10;3;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-32/10C
+100204;Comp fittings;HDPE pipe 40mm Class 6;-;Sufficient;-;-;Low cost;High;No;APVF;Comp fittingsP-DF-40/6C
+100205;Polyprop;POLY nipple [0.75M-0.75M];-;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-0.75M-0.75M/75M]P
+100206;Polyprop;POLY nipple [1M-1M];3;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-1M-1M/1M]P
+100207;Polyprop;POLY nipple [1.25M-1.25M];45;Sufficient;-;-;Low cost;High;;APVF;PolypropP2DF21.25M-1.25M/25M]P
+100208;Polyprop;POLY nipple [1.5M-1.5M];30;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-1.5M-1.5M/5M]P
+100209;Polyprop;POLY male plug [1M];50;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-1M/1M]P
+100210;Polyprop;POLY reducing nipple [0.5M-1M];10;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-0.5M-1M/1M]P
+100211;Polyprop;POLY reducing nipple [1M-1.25M];9;Sufficient;-;-;Low cost;High;;APVF;PolypropP4DF41M-1.25M/25M]P
+100212;Polyprop;POLY reducing nipple [1.25M-1.5M];9;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-1.25M-1.5M/5M]P
+100213;Polyprop;POLY socket [1F-1F];9;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-1F-1F/1F]P
+100214;Polyprop;POLY bushing [1M-0.5F];2;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-1M-0.5F/5F]P
+100215;Polyprop;POLY bushing [0.75M-0.5F];9;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-0.75M-0.5F/5F]P
+100216;Polyprop;POLY bushing [1.5M-1F];10;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-1.5M-1F/1F]P
+100217;Polyprop;POLY tank outlet [1M];31;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-1M/1M]P
+100218;Polyprop;POLY tank outlet [1.5M];(8);CRITICAL;-;-;Low cost;High;;APVF;PolypropP12DF121.5M/5M]P
+100219;Polyprop;POLY Elbow [1M-1F];(22);CRITICAL;-;-;Low cost;High;;APVF;PolypropP14DF141M-1F/1F]P
+100220;Polyprop;SADDLE [32-0.5F];9;Sufficient;-;-;Low cost;High;;APVF;PolypropP-DF-32-0.5F/5F]P
+100221;Polyprop;SADDLE [40-0.5F];(21);CRITICAL;-;-;Low cost;High;;APVF;PolypropP-DF-40-0.5F/5F]P
+100222;Consumables;Weld-on 717 heavy duty cement (473ml);(19);CRITICAL;-;-;Low cost;High;;APVF;ConsumablesP27DF27717/473ml)C
+100223;Consumables;Weld-on White Seal Plus - Pipe thread sealant;(11);CRITICAL;-;-;Low cost;High;;APVF;ConsumablesP-DF-Pipe/sealantC
+100224;Consumables;PTFE Tape 12mm x 10m (Yellow);(9);CRITICAL;-;-;Low cost;High;;APVF;ConsumablesP-DF-12/10m (Yellow)C
+100225;Electrical;Large Electrical box - All-006;5;Sufficient;-;-;Expensive;High;;Plumstead Elec;12328AAA
+100226;Electrical;Large Electrical box - All-005;5;Sufficient;-;-;Expensive;High;;Plumstead Elec;12328AA
+100227;Electrical;Small Electrical box - All-004;21;Sufficient;-;-;Expensive;High;;Plumstead Elec;12328A
+100228;Electrical;Small Electrical box - All-003;4;Sufficient;-;-;Expensive;High;;Plumstead Elec;12328
+100229;Electrical;Electrical box lables pH system;59;Sufficient;-;-;Low cost;High;No;Jacques;ElectricalP11DF11lables/systemE
+100230;Electrical;Electrical box lables commercial;8;Sufficient;-;-;Low cost;High;No;Jacques;ElectricalP-DF-box/commercialE
+100231;Electrical;Electrical box lables small residential;(24);CRITICAL;-;-;Low cost;High;No;Jacques;ElectricalP-DF-lables/residentialE
+100232;Electrical;3-pole mini contactor NO;6;Sufficient;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-3/3-pole mini contactor NOE
+100233;Electrical;20A single pole circuit breaker;4;Sufficient;-;-;Low cost;High;;ElectroMechanica;MV120Z
+100234;Electrical;32A 2-pole curcuit breaker;(35);CRITICAL;-;-;Low cost;High;;ElectroMechanica;MJT732
+100235;Electrical;25A 3-pole curcuit breaker;20;Sufficient;-;-;Low cost;High;;ElectroMechanica;MA325Z
+100236;Electrical;25A 4-pole curcuit breaker;37;Sufficient;-;-;Low cost;High;;ElectroMechanica;MA425Z
+100237;Electrical;Busbar;4;Sufficient;-;-;Low cost;High;;ElectroMechanica;KB163P
+100238;Electrical;Slimline timer ;18;Sufficient;-;-;Low cost;High;;ElectroMechanica;EH011
+100239;Electrical;24V transformer slimline - DIN;2;Sufficient;-;-;Low cost;High;;ElectroMechanica;DRL-24V75W1AZ
+100240;Electrical;24V UPS;3;Sufficient;-;-;Low cost;High;No;ElectroMechanica;DRU-24V10ACZ
+100241;Electrical;24V Battery - RSEC;1;Sufficient;-;-;Low cost;High;No;Stephen;ElectricalP8DF824/24V Battery - RSECE
+100242;Electrical;2-pole isolator switch 32A;15;Sufficient;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-2/32AE
+100243;Electrical;4-pole isolator switch 32A;3;Sufficient;-;-;Low cost;High;;ElectroMechanica;GX32 92U
+100244;Electrical;2 position panel switch;(8);CRITICAL;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-2/2 position panel switchE
+100245;Electrical;3 position panel switch;(17);CRITICAL;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-3/3 position panel switchE
+100246;Electrical;LED light Green 220V;(14);CRITICAL;-;-;Low cost;High;;ElectroMechanica;AD22-22DSG22
+100247;Electrical;LED light Red 220V;(2);CRITICAL;-;-;Low cost;High;;ElectroMechanica;AD22-22DSR22
+100248;Electrical;LED light Orange 220V;5;Sufficient;-;-;Low cost;High;;ElectroMechanica;AD22-22DSA22
+100249;Electrical;LED light Green 24V;(23);CRITICAL;-;-;Low cost;High;;ElectroMechanica;AD22-22DSG02
+100250;Electrical;LED light Red 24V;29;Sufficient;-;-;Low cost;High;;ElectroMechanica;AD22-22DSR02
+100251;Electrical;Buzzer pulse 220V;(2);CRITICAL;-;-;Low cost;High;;ElectroMechanica;AD22-22MR22
+100252;Electrical;7x Earth bar din mount;(28);CRITICAL;-;-;Low cost;High;;ElectroMechanica;ITB1030
+100253;Electrical;7x Neutral bar din mount;4;Sufficient;-;-;Low cost;High;;ElectroMechanica;ITB1015
+100254;Electrical;18W 230VAC filter & fan;25;Sufficient;-;-;Low cost;High;;ElectroMechanica;FF12A230UF
+100255;Electrical;Exhast filter & grid;5;Sufficient;-;-;Low cost;High;;ElectroMechanica;FF12U
+100256;Electrical;230V Thermostat;8;Sufficient;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-230/230V ThermostatE
+100257;Electrical;230V 2 channel relay 8A;4;Sufficient;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-230/8AE
+100258;Electrical;24VDC 2 channel realy 8A;4;Sufficient;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-24/8AE
+100259;Electrical;Relay block - 2 channel;10;Sufficient;-;-;Low cost;High;;ElectroMechanica;9702SPA
+100260;Electrical;230V 1 channel relay 16A;5;Sufficient;-;-;Low cost;High;;ElectroMechanica;466182300040
+100261;Electrical;Relay block - 1 channel;1;Sufficient;-;-;Low cost;High;;ElectroMechanica;9701SPA
+100262;Electrical;Off-delay timer;(32);CRITICAL;-;-;Low cost;High;;ElectroMechanica;RS-TB14
+100263;Electrical;AVK DIN terminal - grey;8;Sufficient;-;-;Low cost;High;;ElectroMechanica;304120
+100264;Electrical;AVK DIN terminal - blue;(39);CRITICAL;-;-;Low cost;High;;ElectroMechanica;304121
+100265;Electrical;Terminal End Stops;5;Sufficient;-;-;Low cost;High;;ElectroMechanica;495049
+100266;Electrical;Din rail - 2m;16;Sufficient;-;-;Low cost;High;;ElectroMechanica;TS35/F5A
+100267;Electrical;100mm x 2.5mm cable ties;3;Sufficient;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-100/5mm cable tiesE
+100268;Electrical;250mm x 3.6mm cable ties;33;Sufficient;-;-;Low cost;High;;ElectroMechanica;LH-I-250B
+100269;Electrical;0.5mm Twin wire end ferrals (100pk);18;Sufficient;-;-;Low cost;High;;ElectroMechanica;005613
+100270;Electrical;0.75mm Twin wire end ferrals (100pk);(19);CRITICAL;-;-;Low cost;High;;ElectroMechanica;005653
+100271;Electrical;1.0mm Twin wire end ferrals (100pk);2;Sufficient;-;-;Low cost;High;;ElectroMechanica;005740
+100272;Electrical;1.5mm Twin wire end ferrals (100pk);(8);CRITICAL;-;-;Low cost;High;;ElectroMechanica;005794
+100273;Electrical;2.5mm Twin wire end ferrals (100pk);(7);CRITICAL;-;-;Low cost;High;;ElectroMechanica;005816
+100274;Electrical;Ring terminal (100pk);6;Sufficient;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-100/100pk)E
+100275;Electrical;M12 gland;30;Sufficient;-;-;Low cost;High;;ElectroMechanica;PMGB12-5
+100276;Electrical;M20 gland;3;Sufficient;-;-;Low cost;High;;ElectroMechanica;PMGB20-13.5
+100277;Electrical;Waterproof inline connector;1;Sufficient;-;-;Low cost;High;;ElectroMechanica;ElectricalP-DF-Waterproof/connectorE
+100278;Electrical;Trunking 25 x 40mm (2m);1;Sufficient;-;-;Low cost;High;;ElectroMechanica;TSL025040N
+100279;Electrical;Trunking 25 x 60mm (2m);41;Sufficient;-;-;Low cost;High;;ElectroMechanica;TSL025060N
+100280;GSM;Rievtech PLC - PR12 - GATOR;3;Sufficient;-;-;Expensive;High;;Stephen;GSMP4DF412/12 - GATORG
+100281;GSM;Rievtech PLC - PR18 - GATOR;5;Sufficient;-;-;Expensive;High;;Stephen;GSMP-DF-18/18 - GATORG
+100282;GSM;Rievtech PLC - expansion - GATOR;199;Sufficient;-;-;Expensive;High;;Stephen;GSMP-DF-PLC/GATORG
+100283;GSM;Polar Monitor Gateway - EM;12;Sufficient;-;-;Expensive;High;;ElectroMechanica;PM-GW-LTE
+100284;Electrical;1 core 4mm red;12;Sufficient;-;-;Low cost;Low;;Voltex;F0000502
+100285;Electrical;1 core 4mm black;(11);CRITICAL;-;-;Low cost;Low;;Voltex;ElectricalP20DF201/4mm blackE
+100286;Electrical;1 core 2.5mm red;18;Sufficient;-;-;Low cost;Low;;Voltex;F0000494
+100287;Electrical;1 core 2.5mm black;25;Sufficient;-;-;Low cost;Low;;Voltex;F0000489
+100288;Electrical;1 core 1.5mm red;(3);CRITICAL;-;-;Low cost;Low;;Voltex;F0000475
+100289;Electrical;1 core 1.5mm black;100;Sufficient;-;-;Low cost;Low;;Voltex;F0000468
+100290;Electrical;1 core 1.0mm red;-;Sufficient;-;-;Low cost;Low;;Voltex;F0000464
+100291;Electrical;1 core 1.0mm black;100;Sufficient;-;-;Low cost;Low;;Voltex;F0000456
+100292;Electrical;1 core 1.0mm blue;30;Sufficient;-;-;Low cost;Low;;Voltex;F0000512
+100293;Electrical;1 core 0.75mm red;150;Sufficient;-;-;Low cost;Low;;Voltex;F0000452
+100294;Electrical;1 core 0.75mm black;100;Sufficient;-;-;Low cost;Low;;Voltex;F0000445
+100295;Electrical;1 core 0.75mm blue;100;Sufficient;-;-;Low cost;High;;Voltex;F0000446
+100296;Electrical;1 core 0.5mm black;300;Sufficient;-;-;Low cost;High;;Voltex;F0000433
+100297;Electrical;1 core 0.5mm white;100;Sufficient;-;-;Low cost;High;;Voltex;F0000443
+100298;Electrical;1 core 0.5mm yellow;100;Sufficient;-;-;Low cost;High;;Voltex;ElectricalP100DF1001/5mm yellowE
+100299;Electrical;1 core 0.5mm pink;100;Sufficient;-;-;Low cost;Low;;Voltex;F0000439
+100300;Electrical;1 core 0.5mm orange;190;Sufficient;-;-;Low cost;High;;Voltex;ElectricalP100DF1001/5mm orangeE
+100301;Electrical;1 core 0.5mm purple;250;Sufficient;-;-;Low cost;High;;Voltex;F0000442
+100302;Electrical;1 core 0.5mm grey;240;Sufficient;-;-;Low cost;High;;Voltex;F0000437
+100303;Electrical;2 core 0.5mm cabtie black;300;Sufficient;-;-;Low cost;High;;Voltex;F0000083
+100304;Electrical;2 core 0.5mm ripcord black;400;Sufficient;-;-;Low cost;High;;Voltex;F0000524
+100305;Electrical;3 core 0.5mm cabtie black;300;Sufficient;-;-;Low cost;High;;Voltex;F0000087
+100306;Electrical;3 core 0.75mm cabtie black;195;Sufficient;-;-;Low cost;High;;Voltex;F0000100
+100307;Electrical;3 core 1.0mm cabtie black;370;Sufficient;-;-;Low cost;Low;;Voltex;F0000119
+100308;Electrical;3 core 1.5mm cabtie black;200;Sufficient;-;-;Low cost;Low;;Voltex;F0000137
+100309;Electrical;3 core (L,N&E) 1.5mm suffix black;100;Sufficient;-;-;Low cost;Low;;Voltex;F0000598
+100310;Electrical;3 core (L,N&E) 2.5mm suffix black;100;Sufficient;-;-;Low cost;Low;;Voltex;F0000614
+100311;Electrical;3 core (L,N&E) 4mm suffix black;200;Sufficient;-;-;Low cost;Low;;Voltex;F0000627
+100312;Electrical;4 core (3L&E) 1.0mm cabtie black;90;Sufficient;-;-;Low cost;Low;;Voltex;F0000123
+100313;Electrical;4 core (3L&E) 1.5mm cabtie black;200;Sufficient;-;-;Low cost;Low;;Voltex;F0000143
+100314;Electrical;Earth chain (2.5m packs) - for tanks;50;Sufficient;-;-;Low cost;High;No;Jacques;ElectricalP4DF42/5m packs) - for tanksE
+100315;Electrical;Printer tape (handheld printer);270;Sufficient;-;-;Low cost;High;;Jacques;ElectricalP-DF-tape/printer)E
+100316;Stands;P2000 1.5mm C-Channel - 5m;50;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP18DF182000/5mS
+100317;Stands;P1065 - 2 Hole Flat Fitting;50;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-1065/2 Hole Flat FittingS
+100318;Stands;P1026 - 90 deg Angle Fitting (short);50;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP22DF221026/90 deg Angle Fitting (short)S
+100319;Stands;P1325 - 90 deg Angle Fitting (long);(19);CRITICAL;-;-;Low cost;High;;Cabstrut;StandsP4DF41325/90 deg Angle Fitting (long)S
+100320;Stands;P1546 - 45 deg Angle Fitting HDG;9;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP6DF61546/45 deg Angle Fitting HDGS
+100321;Stands;I0003423 - Channel End Cap PVC Grey;112;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0003423/0003423 - Channel End Cap PVC GreyS
+100322;Stands;I0000819 - Spring Nut Long M8;70;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP260DF2600000819/8S
+100323;Stands;i0005974 - Straight PVC conduit 20mm - 4m length;215;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP15DF150005974/4m lengthS
+100324;Stands;i0006008 - PVC conduit saddle 20mm;74;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0006008/20mmS
+100325;Stands;i0001305 HEX NUT M06;78;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0001305/06S
+100326;Stands;i0001308 HEX NUT M08;(77);CRITICAL;-;-;Low cost;High;;Cabstrut;StandsP-DF-0001308/08S
+100327;Stands;i0001326 HEX SET SCREW M06 X 30MM ;410;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP85DF850001326/30MMS
+100328;Stands;i0001333 HEX SET SCREW M08 X 20MM;35;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP100DF1000001333/20MMS
+100329;Stands;i0001341 HEX SET SCREW M08 X 40MM;90;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0001341/40MMS
+100330;Stands;I0001416 FENDER WASHER M06 X 32MM OD;300;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0001416/32MM ODS
+100331;Stands;I0001417 FENDER WASHER M08 X 38MM OD;458;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP100DF1000001417/38MM ODS
+100332;Stands;i0001263 NAIL-IN ANCHOR M06 X 35MM;250;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP200DF2000001263/35MMS
+100333;Stands;i0001408 THREADED ROD M08 X 3M;550;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP5DF50001408/3MS
+100334;Stands;i0001593 - Cable Tray 050MM STRAIGHT 3M;350;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0001593/3MS
+100335;Stands;i0001598 - Cable Tray 101MM STRAIGHT 3M;240;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0001598/3MS
+100336;Stands;i0000194 - Cable Tray 050MM HORIZ BEND 90 DEG;450;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0000194/90 DEGS
+100337;Stands;i0000203 - Cable Tray 101MM HORIZ BEND 90 DEG;200;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0000203/90 DEGS
+100338;Stands;i0000196 - Cable Tray 050MM RISER 90 DEG;10;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0000196/90 DEGS
+100339;Stands;i0000205 - Cable Tray 101MM RISER 90 DEG;14;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0000205/90 DEGS
+100340;Stands;i0000195 - Cable Tray 050MM DROPPER 90 DEG;10;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0000195/90 DEGS
+100341;Stands;0000204 - Cable Tray 101MM DROPPER 90 DEG;20;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0000204/90 DEGS
+100342;Stands;i0001298 - BOLT+NUT+ SET M06 X 16MM;32;Sufficient;-;-;Low cost;High;;Cabstrut;StandsP-DF-0001298/16MMS
+100343;Stands;HILTI - 3-Way Transversal connector;11;Sufficient;-;-;Low cost;High;;Jacques;StandsP-DF-3/3-Way Transversal connectorS
+100344;Ozone;Corona discharge cell 7g - GetOzone;15;Sufficient;-;-;Expensive;High;No;Jacques;OzoneP-DF-7/7g - GetOzoneO
+100345;Ozone;Modular Power supply for 7g Ozone - GetOzone;23;Sufficient;-;-;Expensive;High;No;Jacques;OzoneP-DF-7/7g Ozone - GetOzoneO
+100346;Ozone;45W air pump (Ozone);6;Sufficient;-;-;Expensive;High;No;WET;OzoneP-DF-45/45W air pump (Ozone)O
+100347;Ozone;Suction fan electrical (Ozone);250;Sufficient;-;-;Low cost;High;No;Jacques;OzoneP-DF-fan/Ozone)O
+100348;Ozone;Grill & filter for Ozone box;134;Sufficient;-;-;Low cost;High;No;Jacques;OzoneP-DF-for/boxO
+100349;Ozone;Silicon tubing (Ozone) - GetOzone;6;Sufficient;-;-;Low cost;High;No;Jacques;OzoneP26DF26tubing/GetOzoneO
+100350;Ozone;Air stone (Ozone) - Hydroponics.co.za;4;Sufficient;-;-;Low cost;High;No;Jacques;OzoneP-DF-Hydroponics/zaO

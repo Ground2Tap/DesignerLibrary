@@ -1,0 +1,21 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": 0.0,
+            "y": 15.0,
+            "angles": [
+                0
+            ]
+        },
+        "outlet": {
+            "x": 0.0,
+            "y": 15.0,
+            "angles": [
+                180
+            ]
+        }
+    },
+    "name": "pressure gauge",
+    "type": "image",
+    "category": "Pressure Gauge"
+}

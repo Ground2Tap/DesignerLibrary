@@ -1,0 +1,31 @@
+{
+    "connection_points": {
+        "inlet": {
+            "x": -15.6796875,
+            "y": 2.5,
+            "angles": [
+                180
+            ]
+        },
+        "outlet": {
+            "x": 16.3203125,
+            "y": 1.5,
+            "angles": [
+                0
+            ]
+        },
+        "waste": {
+            "x": 0.3203125,
+            "y": 14.5,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "UF Process",
+    "type": "process",
+    "process_text": "UF",
+    "width": 30.640625,
+    "height": 27.0,
+    "radius": 5
+}

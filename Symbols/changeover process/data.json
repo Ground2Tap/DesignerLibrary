@@ -1,0 +1,32 @@
+{
+    "connection_points": {
+        "treated inlet": {
+            "x": -50.0,
+            "y": 0.0,
+            "angles": [
+                -180
+            ]
+        },
+        "municipal inlet": {
+            "x": 1.0,
+            "y": -14.0,
+            "angles": [
+                -90
+            ]
+        },
+        "outlet": {
+            "x": 50.0,
+            "y": 1.0,
+            "angles": [
+                0
+            ]
+        }
+    },
+    "name": "changeover process",
+    "type": "process",
+    "process_text": "Changeover",
+    "width": 100.8125,
+    "height": 27.0,
+    "radius": 5,
+    "category": "Changeover process"
+}

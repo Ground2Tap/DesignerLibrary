@@ -1,0 +1,36 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": -150.0,
+            "y": 175.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 2": {
+            "x": -172.0,
+            "y": 174.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 3": {
+            "x": -103.0,
+            "y": -209.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 4": {
+            "x": -65.0,
+            "y": -211.0,
+            "angles": [
+                -90
+            ]
+        }
+    },
+    "name": "Isolator",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null
+}

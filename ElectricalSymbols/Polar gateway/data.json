@@ -1,0 +1,48 @@
+{
+    "connection_points": {
+        "DC-": {
+            "x": -8.0,
+            "y": -168.0,
+            "angles": [
+                -90
+            ]
+        },
+        "DC+": {
+            "x": 11.0,
+            "y": -168.0,
+            "angles": [
+                -90
+            ]
+        },
+        "A+": {
+            "x": -14.0,
+            "y": 171.0,
+            "angles": [
+                90
+            ]
+        },
+        "B-": {
+            "x": 2.0,
+            "y": 171.0,
+            "angles": [
+                90
+            ]
+        },
+        "Gnd": {
+            "x": 15.0,
+            "y": 170.0,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "Polar gateway",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "din_rail_attachment": {
+        "x": 0,
+        "y": 0,
+        "angle": 90
+    }
+}
