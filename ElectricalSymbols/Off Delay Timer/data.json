@@ -1,0 +1,43 @@
+{
+    "connection_points": {
+        "Connection Point 1": {
+            "x": -9.0,
+            "y": -122.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 2": {
+            "x": 12.0,
+            "y": -121.0,
+            "angles": [
+                -90
+            ]
+        },
+        "Connection Point 3": {
+            "x": -15.0,
+            "y": 120.0,
+            "angles": [
+                90
+            ]
+        },
+        "Connection Point 4": {
+            "x": 0.0,
+            "y": 119.0,
+            "angles": [
+                90
+            ]
+        },
+        "Connection Point 5": {
+            "x": 17.0,
+            "y": 121.0,
+            "angles": [
+                90
+            ]
+        }
+    },
+    "name": "Off Delay Timer",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null
+}
