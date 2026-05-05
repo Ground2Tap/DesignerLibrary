@@ -1,36 +1,36 @@
 {
     "connection_points": {
-        "Connection Point 1": {
-            "x": -9.0,
+        "A1: Live": {
+            "x": -10.0,
             "y": -122.0,
             "angles": [
                 -90
             ]
         },
-        "Connection Point 2": {
+        "A2: Neutral": {
             "x": 12.0,
             "y": -121.0,
             "angles": [
                 -90
             ]
         },
-        "Connection Point 3": {
+        "18: NO": {
             "x": -15.0,
             "y": 120.0,
             "angles": [
                 90
             ]
         },
-        "Connection Point 4": {
+        "15: COM": {
             "x": 0.0,
             "y": 119.0,
             "angles": [
                 90
             ]
         },
-        "Connection Point 5": {
+        "16: NC": {
             "x": 17.0,
-            "y": 121.0,
+            "y": 120.0,
             "angles": [
                 90
             ]
