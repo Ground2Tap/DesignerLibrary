@@ -1,0 +1,12 @@
+{
+    "connection_points": {},
+    "name": "Invertek VSD frame 1",
+    "type": "svg",
+    "svg": "symbol.svg",
+    "category": null,
+    "din_rail_attachment": {
+        "x": 0,
+        "y": 0,
+        "angle": 90
+    }
+}
